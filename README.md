@@ -14,9 +14,6 @@ Une page de documentation technique (HTML Documentation) construite dans le cadr
 ✅ Sections bien structurées avec titres et sous-titres  
 ✅ Design responsive adapté aux différents écrans  
 
-## 📸 Aperçu du projet
-*(Ajoute ici une capture d’écran du projet.)*
-
 ## 📥 Installation et Utilisation
 1. **Clone le dépôt**  
    ```bash
