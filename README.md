@@ -3,7 +3,7 @@
 Une page de documentation technique (HTML Documentation) construite dans le cadre du **certificat en design web responsive** de FreeCodeCamp. Ce projet vise à organiser l'information technique de manière claire et accessible.
 
 ## 🚀 Démo en ligne
-🔗 [Lien vers la démo](AJOUTER_LIEN_ICI)
+🔗 [Lien vers la démo](https://lil-code30.github.io/page-documentation-technique/)
 
 ## 🛠️ Technologies utilisées
 - **HTML5** – Contenu structuré avec titres et sections  
